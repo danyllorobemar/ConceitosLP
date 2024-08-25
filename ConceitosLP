@@ -1,0 +1,5 @@
+A programação orientada a objetos (POO) organiza o código em classes e objetos, 
+promovendo a modularidade, reutilização de código por herança e encapsulamento, 
+enquanto a programação procedural estrutura o código em funções que seguem uma sequência de passos lógicos. 
+A POO facilita a manutenção e a escalabilidade, sendo mais adequada para sistemas complexos, enquanto a abordagem
+ procedural pode ser mais direta, mas menos flexível em grandes projetos.
